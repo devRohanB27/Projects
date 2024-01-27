@@ -1,0 +1,114 @@
+
+h1{
+    color: rgb(10, 10, 163);
+    text-shadow: 1.5px 1.5px 1.5px rgb(131, 168, 232);
+    font-family: 'Roboto Slab', serif;
+    font-size: 40px;
+    margin: 0;
+
+}
+
+h3{
+    background-color: rgb(53, 53, 205);
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+    margin: auto;
+}
+
+.education li{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    padding: 5px;
+}
+
+.skills{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 5px;
+    padding: 5px;
+}
+
+.hobbies li{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    padding: 5px;
+    text-decoration: none;
+}
+
+footer{
+    background-color: gray;
+    padding: 5px;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+.bio p{
+    font-size: 18px;    
+    font-family: 'Poppins', sans-serif;
+}
+
+#pa{
+    font-weight: bold;
+}
+
+/* Contact Page Styles*/
+
+.address p,h2{
+    margin: 0;
+    padding: 5px;
+}
+
+h2{
+    background-color: rgb(53, 53, 205);
+    color: white;
+    font-size: 25px;
+    padding: 5px;
+    margin: auto;
+}
+
+#address,.form{
+    padding: 7px;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+input{
+    position: relative;
+    left: 32px;
+    
+}
+
+#name{
+    position: relative;
+    left: 27px;
+}
+
+textarea{
+    position: relative;
+    left: 133px;
+}
+
+#submit{
+    font-size: 14px;
+    position: relative;
+    left: 185px;    
+}
+
+/*Books Page Styles*/
+
+.books{
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+    padding: 5px;
+    margin: auto;
+    margin-top: 5px;
+    margin-left: 12px;
+}
+.author{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
